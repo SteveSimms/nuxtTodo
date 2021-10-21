@@ -21,9 +21,7 @@ todoStore.taskList.push(
     todoStore.userTaskInput = ''
 }
 
-// function getInput() {
-//     todoStore.userTaskInput.value
-// }
+
 
 </script>
 
